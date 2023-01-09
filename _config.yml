@@ -4,4 +4,8 @@ description: Cybersecurity in Healthcare
 url: "https://zlittleking.github.io"
 markdown: kramdown
 highlighter: rouge
-remote_theme: benbalter/retlab
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
