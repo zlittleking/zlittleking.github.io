@@ -1,2 +1,6 @@
 #jekyll configuration
-
+name: Zephania Abel
+description: Cybersecurity in Healthcare
+url: "https://zlittleking.github.io"
+markdown: kramdown
+highlighter: rouge
