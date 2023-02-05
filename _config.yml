@@ -1,10 +1,2 @@
 #jekyll configuration
-name: Zephania Abel
-url: "https://zlittleking.github.io"
-markdown: kramdown
-highlighter: rouge
-theme: minima
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
