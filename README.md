@@ -1,6 +1,4 @@
-![]()
-
-
+![](cyber2.jpg)
 
 # CYBER SECURITY and DIGITAL HEALTH
 
@@ -12,6 +10,7 @@ Additionally, there are also concerns about the security of medical devices conn
 
 As much as that digital health technology has brought many benefits to the healthcare industry, it has also introduced new risks and challenges for protecting sensitive information. Cybersecurity in digital health aims to ensure the confidentiality, integrity, and availability of PHI and other sensitive information stored and transmitted through digital technology in the healthcare industry.
 
+![]()
 
 ## History of Digital Health
 
