@@ -1,3 +1,7 @@
+![]()
+
+
+
 # CYBER SECURITY and DIGITAL HEALTH
 
 Cybersecurity in digital health refers to the protection of sensitive information, such as personal health information (PHI), stored and transmitted through digital technology in the healthcare industry. With the increasing adoption of digital health technology, such as electronic health records (EHRs), telemedicine, and wearable devices, the amount of PHI being stored and transmitted electronically has grown significantly.
@@ -85,3 +89,10 @@ The use of blockchain technology in healthcare could help to improve security an
 # Conclusion: 
 It is likely that cybersecurity will continue to be a major concern for healthcare organizations in the future. As the healthcare sector becomes increasingly digitized, the number and complexity of cybersecurity threats is likely to increase.
 Maintaining strong cybersecurity in healthcare is critical for protecting patient privacy, maintaining the organization's reputation, preventing financial losses, protecting patient safety, and complying with legal requirements.
+
+# Sources
+
+1.
+2.
+3.
+4.
