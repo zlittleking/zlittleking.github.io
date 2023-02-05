@@ -91,7 +91,11 @@ Maintaining strong cybersecurity in healthcare is critical for protecting patien
 
 # Sources
 
-1.
-2.
-3.
-4.
+1. A. Strielkina, O. Illiashenko, M. Zhydenko and D. Uzun, "Cybersecurity of healthcare IoT-based systems: Regulation and case-oriented assessment," 2018 IEEE 9th International Conference on Dependable Systems, Services and Technologies (DESSERT), Kyiv, UKraine, 2018, pp. 67-73, doi: 10.1109/DESSERT.2018.8409101.
+
+2. Nifakos, S.; Chandramouli, K.; Nikolaou, C.K.; Papachristou, P.; Koch, S.; Panaousis, E.; Bonacina, S. Influence of Human Factors on Cyber Security within Healthcare Organisations: A Systematic Review. Sensors 2021, 21, 5119. https://doi.org/10.3390/s21155119
+
+3. Langer, S.G. Cyber-Security Issues in Healthcare Information Technology. J Digit Imaging 30, 117–125 (2017). https://doi.org/10.1007/s10278-016-9913-x
+
+4. K. Abu Ali and S. Alyounis, "CyberSecurity in Healthcare Industry," 2021 International Conference on Information Technology (ICIT), Amman, Jordan, 2021, pp. 695-701, doi: 10.1109/ICIT52682.2021.9491669.
+
